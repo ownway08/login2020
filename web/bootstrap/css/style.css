@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+  background: url(l1.jpg)  center fixed;
+  background-size: cover;
+  text-align: center;
+}
